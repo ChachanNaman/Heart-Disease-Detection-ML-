@@ -1,7 +1,5 @@
 # ❤️ Heart Disease Prediction
 
-![Heart Disease](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Heart_Disease.svg/1024px-Heart_Disease.svg.png)
-
 ## 📌 Project Overview
 This project aims to predict the likelihood of heart disease based on various health parameters. Using **Logistic Regression**, we analyze patient data and determine whether an individual is at risk (*1 - Heart Disease*) or healthy (*0 - No Heart Disease*).
 
